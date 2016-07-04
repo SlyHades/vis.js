@@ -1,20 +1,20 @@
 NOTE: This was modified for personal use, however can be used for getting data of audio files.
 
 Viewing:
-<br>(Development) https://rawgit.com/FromLegoUniverse/vis.js/gh-pages/index.html
-<br>(Production) https://cdn.rawgit.com/FromLegoUniverse/vis.js/gh-pages/index.html
+<br>(Development) https://rawgit.com/SlyHades/vis.js/gh-pages/index.html
+<br>(Production) https://cdn.rawgit.com/SlyHades/vis.js/gh-pages/index.html
 
-# vis.js (FromLegoUniverse/TheNexusAvenger's Modifications)
+# vis.js (SlyHades/TheNexusAvenger's Modifications)
 
-vis.js is a modifcation of the [version owned by caseof](https://github.com/FromLegoUniverse/vis.js) for the use of getting sound data for use on ROBLOX. This is a more speicalized version, and you should refer to the original if you are looking at this one.
+vis.js is a modifcation of the [version owned by caseof](https://github.com/SlyHades/vis.js) for the use of getting sound data for use on ROBLOX. This is a more speicalized version, and you should refer to the original if you are looking at this one.
 
 ## Re-using for yourself
 
 If you want to reproduce these files, do the following:
 <br>1. Create a fork of this repositionary
-<br>2. Go into /index.html, replace both cases of FromLegoUniverse (lines 21 and 32) with your GitHub username
-<br>3. Go into /js/util/config.js and replace FromLegoUniverse (line 8) with your GitHub username
-<br>4. Go into /README.MD and replace both case of FromLegoUniverse in the links(lines 4 and 5) with your GitHub username
+<br>2. Go into /index.html, replace both cases of SlyHades (lines 21 and 32) with your GitHub username
+<br>3. Go into /js/util/config.js and replace SlyHades (line 8) with your GitHub username
+<br>4. Go into /README.MD and replace both case of SlyHades in the links(lines 4 and 5) with your GitHub username
 <br>5. Keep the reference to the original under caseif. I just modified this, I didn't create it.
 
 Note: This is meant to work with rawgit.com. You may need to modify teh links further in steps 2-4 to work with your domain or changed repositionary name.
